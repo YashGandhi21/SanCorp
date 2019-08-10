@@ -72,7 +72,7 @@ h4
 }
 
 
-.btn-explore
+#banner .btn-primary
 {
 	color: #E7113E;
 	padding: 8px 24px;
@@ -83,15 +83,6 @@ h4
 	background: white;
 	border-radius: 32px;
 	text-decoration: none;
-}
-
-.btn-readmore:hover
-{
-	background: #E7113E;
-	text-decoration: none;
-	padding: 8px 64px;
-	color: #E7113E;
-	outline: none;
 }
 
 .col-md-6 img
